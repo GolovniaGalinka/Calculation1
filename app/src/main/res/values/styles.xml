@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="calcul">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#1a237e</item>
+        <item name="android:textSize">@dimen/textSize1</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textAllCaps">false</item>
+
+
+    </style>
+    <style name="calcul2">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#1a237e</item>
+        <item name="android:textSize">70sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+    </style>
+    <style name="calcul3">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#3f51b5</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:textSize">70sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+    </style>
+    <style name="calcul4">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#3f51b5</item>
+       <item name="android:layout_marginLeft">2dp</item>
+       <item name="android:layout_marginBottom">2dp</item>
+       <item name="android:layout_marginTop">2dp</item>
+       <item name="android:layout_marginRight">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">70sp</item>
+    </style>
+
+    <style name="calcul2L">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#1a237e</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+    </style>
+    <style name="calcul3L">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#3f51b5</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+    </style>
+    <style name="calcul4L">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#3f51b5</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+</resources>
